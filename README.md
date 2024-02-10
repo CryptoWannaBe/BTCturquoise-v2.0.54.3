@@ -29,7 +29,7 @@ Sustainability and Innovation
 BTCturquoise's emphasis on CPU mining not only enhances network decentralization but also promotes a more sustainable approach to cryptocurrency mining. The reduced energy consumption associated with CPU mining fosters a greener and more environmentally friendly mining process.
 
 ----------------------------------------------------------------------------------------------
-![data-mining_12893554 (1) (1)](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/bd590080-5fad-43ea-8d63-a22b17edb274)
+
 
 ### Coin Properties:
 
