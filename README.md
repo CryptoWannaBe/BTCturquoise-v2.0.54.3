@@ -37,8 +37,8 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 |--------------------------|---------------------------------------------|
 | Source branch            | v2.0.54.3                                   |
 | Algorithm                | Ghostrider                                  |
-| Coin name                | BTCturquoise                                |
-| Coin abbreviation        | BTCQ                                        |
+| Coin name                | KronicCrypto                                |
+| Coin abbreviation        | KCC                                        |
 | RPC port                 | 3333                                        |
 | P2P port                 | 4444                                        |
 | Block reward             | 5100 coins                                  |
@@ -49,12 +49,12 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 Available Pools:
 Pool Name               | Link
 ------------------------|------------------------------------
-Mining Dutch            | [https://www.mining-dutch.nl/](https://www.mining-dutch.nl/)
-RPlant                  | [https://pool.rplant.xyz/](https://pool.rplant.xyz/)
-CoinXPool               | [https://coinxpool.com/](https://coinxpool.com/)
-Coin Miners Info Pool   | [https://pool.coin-miners.info/](https://pool.coin-miners.info/)
-YourMissingPool         | [https://your-missing-pool.com/](https://your-missing-pool.com/)
-ZergPool                | [https://zergpool.com/](https://zergpool.com/)
+Mining Dutch            | [](https://)
+RPlant                  | [](https://)
+CoinXPool               | [](https://)
+Coin Miners Info Pool   | [](https://)
+YourMissingPool         | [](https://)
+ZergPool                | [](https://)
 
 
 ### Additional Resources:
@@ -67,17 +67,17 @@ ZergPool                | [https://zergpool.com/](https://zergpool.com/)
 
 | Contact Method       | Link                                             |
 |----------------------|-------------------------------------------------------|
-| Email                | [developers@btcturquoise.online](mailto:developers@btcturquoise.online) |
-| Twitter              | [Twitter](https://twitter.com/btcturquoise)                  |
-| Discord              | [Discord Invite](https://discord.gg/XgxtcdUZDu)          |
-| Bitcointalk          | [Bitcointalk Forum](https://bitcointalk.org/index.php?topic=5480601.0) |
+| Email                | []() |
+| Twitter              | [Twitter]()                  |
+| Discord              | [Discord Invite]()          |
+| Bitcointalk          | [Bitcointalk Forum]() |
 
 Info Links               | Link
 ------------------------|------------------------------------
-CoinPaprika            | [https://coinpaprika.com/coin/btcq-btcturquoise/](https://coinpaprika.com/coin/btcq-btcturquoise/)
-LiveCoinWatch          | [https://www.livecoinwatch.com/price/BTCturquoise-BTCQ](https://www.livecoinwatch.com/price/BTCturquoise-BTCQ)
-Monedas.com            | [https://www.monedas.com/btcturquoise](https://www.monedas.com/btcturquoise)
-AllCoinsDB             | [https://allcoinsdb.com/coins/2108](https://allcoinsdb.com/coins/2108)
+CoinPaprika            | [https://coinpaprika.com](https://coinpaprika.com)
+LiveCoinWatch          | [https://www.livecoinwatch.com](https://www.livecoinwatch.com)
+Monedas.com            | [https://www.monedas.com](https://www.monedas.com)
+AllCoinsDB             | [https://allcoinsdb.com](https://allcoinsdb.com/)
 
 ------------------------------------------------------------------------------------------------
 
