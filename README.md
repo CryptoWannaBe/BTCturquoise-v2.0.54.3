@@ -7,23 +7,23 @@ Core Launch v2.0.54.218
 
 |master|develop|
 
-Welcome to BTCturquoise, a blockchain network offering a compelling alternative to "Bitcoin" traditional cryptocurrencies. Built upon the foundation of Bitcoin but with notable enhancements, BTCturquoise is a peer-to-peer digital currency designed for efficiency CPU coin, decentralization, and inclusivity.
+Welcome to KronicCrypto, a blockchain network offering a compelling alternative to "Bitcoin" traditional cryptocurrencies. Built upon the foundation of Bitcoin but with notable enhancements, KronicCrypto is a peer-to-peer digital currency designed for efficiency CPU coin, decentralization, and inclusivity.
 
 CPU-Friendly Mining Algorithm: GhostRider
-Unlike Bitcoin's reliance on ASIC-dominated mining, BTCturquoise employs the GhostRider algorithm. This innovative approach encourages CPU mining, enabling broader participation without the need for specialized hardware. It fosters a more inclusive mining environment, promoting fairness and accessibility.
+Unlike Bitcoin's reliance on ASIC-dominated mining, KronicCrypto employs the GhostRider algorithm. This innovative approach encourages CPU mining, enabling broader participation without the need for specialized hardware. It fosters a more inclusive mining environment, promoting fairness and accessibility.
 
 Security, Speed, and Sustainability
-With a focus on robust security measures and faster transaction confirmations, BTCturquoise facilitates seamless, near-instant payments globally. Its sustainable supply control and demand-driven approach align with market dynamics, fostering a balanced and reliable ecosystem.
+With a focus on robust security measures and faster transaction confirmations, KronicCrypto facilitates seamless, near-instant payments globally. Its sustainable supply control and demand-driven approach align with market dynamics, fostering a balanced and reliable ecosystem.
 
 Open Source and Collaborative Development
-BTCturquoise operates under the MIT license, encouraging transparency and collaboration within its development community. Active development occurs in separate branches, with stable releases tagged for clarity in the Tags section.
+KronicCrypto operates under the MIT license, encouraging transparency and collaboration within its development community. Active development occurs in separate branches, with stable releases tagged for clarity in the Tags section.
 
 Advantages over Traditional Bitcoin (BTC)
 CPU vs. ASIC Mining
-BTCturquoise’s GhostRider algorithm promotes CPU-based mining, in stark contrast to Bitcoin's ASIC-centric mining landscape. This approach democratizes mining participation, allowing individuals to contribute to network security without investing in specialized, often costly hardware. The result? A more decentralized, resilient, and community-driven network.
+KronicCrypto’s GhostRider algorithm promotes CPU-based mining, in stark contrast to Bitcoin's ASIC-centric mining landscape. This approach democratizes mining participation, allowing individuals to contribute to network security without investing in specialized, often costly hardware. The result? A more decentralized, resilient, and community-driven network.
 
 Accessibility and Inclusivity
-By prioritizing CPU mining, BTCturquoise aims to level the playing field, welcoming a broader spectrum of participants into the world of cryptocurrency mining. This inclusivity aligns with the original ethos of decentralized currencies, empowering individuals globally to engage in the network's operations.
+By prioritizing CPU mining, KronicCrypto aims to level the playing field, welcoming a broader spectrum of participants into the world of cryptocurrency mining. This inclusivity aligns with the original ethos of decentralized currencies, empowering individuals globally to engage in the network's operations.
 
 Sustainability and Innovation
 BTCturquoise's emphasis on CPU mining not only enhances network decentralization but also promotes a more sustainable approach to cryptocurrency mining. The reduced energy consumption associated with CPU mining fosters a greener and more environmentally friendly mining process.
